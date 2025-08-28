@@ -51,7 +51,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1. Clone the Repository:
 
-git clone https://github.com/subhadipsinha722133/Cat-and-Dog-Image-Classification-Project.git <br>
+git clone https://github.com/subhadipsinha722133/Cat-and-Dog-Image-Classification-Project-CNN.git <br>
 cd Cat-and-Dog-Image-Classification-Project
 
 
