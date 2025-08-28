@@ -11,7 +11,7 @@ st.write("Made By Subhadip 😎")
 model = pickle.load(open(r"C:\Users\sinha\Desktop\CAT vs DOG\model", "rb"))
 
 # File uploader
-uploaded_image = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg"])x
+uploaded_image = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg"])
 
 if uploaded_image is not None:
     st.divider()
@@ -42,3 +42,4 @@ if uploaded_image is not None:
             st.success("🐶 It's a Dog!")
         else:
             st.success("🐱 It's a Cat!")
+
